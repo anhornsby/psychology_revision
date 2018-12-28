@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:0D2C6416-8D03-4C27-9287-ECA33A96E88F</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-05-03T14:19:40+01:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:AF3C9836-8D68-436D-8ABA-E0486CA7BAE3</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">AF3C9836-8D68-436D-8ABA-E0486CA7BAE3</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2012-05-03T14:19:40.001+01:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:A8181FB1-C272-46D9-A10B-8D917D609988</id>
+  <title>Social Psychology</title>
+  <title xmlns="urn:iweb:">Social Psychology</title>
+  <in-navbar xmlns="urn:iweb:">A8181FB1-C272-46D9-A10B-8D917D609988</in-navbar>
+  <link rel="alternate" href="Social_Psychology.html"/>
+  <updated>2012-05-03T14:19:40.002+01:00</updated>
+  <content>Social Psychology</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:FBBB56B5-B156-4524-A1F5-19A92BF1E1EB</id>
+  <title>Personality &amp; Individual Differences</title>
+  <title xmlns="urn:iweb:">Personality &amp; Individual Differences</title>
+  <in-navbar xmlns="urn:iweb:">FBBB56B5-B156-4524-A1F5-19A92BF1E1EB</in-navbar>
+  <link rel="alternate" href="Personality_%26_Individual_Differences.html"/>
+  <updated>2012-05-03T14:19:40.003+01:00</updated>
+  <content>Personality &amp; Individual Differences</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:2245CA26-DD07-4906-90A0-45638779B6A8</id>
+  <title>Memory &amp; Decision</title>
+  <title xmlns="urn:iweb:">Memory &amp; Decision</title>
+  <in-navbar xmlns="urn:iweb:">2245CA26-DD07-4906-90A0-45638779B6A8</in-navbar>
+  <link rel="alternate" href="Memory_%26_Decision.html"/>
+  <updated>2012-05-03T14:19:40.004+01:00</updated>
+  <content>Memory &amp; Decision</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:E8E7E690-2166-4B11-AFCD-CD1E46F878B6</id>
+  <title>Concepts &amp; Methods</title>
+  <title xmlns="urn:iweb:">Concepts &amp; Methods</title>
+  <in-navbar xmlns="urn:iweb:">E8E7E690-2166-4B11-AFCD-CD1E46F878B6</in-navbar>
+  <link rel="alternate" href="Concepts_%26_Methods.html"/>
+  <updated>2012-05-03T14:19:40.005+01:00</updated>
+  <content>Concepts &amp; Methods</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:007273D8-F52A-4FA0-A44C-F5635FA3366A</id>
+  <title>Questions</title>
+  <title xmlns="urn:iweb:">Questions</title>
+  <in-navbar xmlns="urn:iweb:">007273D8-F52A-4FA0-A44C-F5635FA3366A</in-navbar>
+  <link rel="alternate" href="Questions.html"/>
+  <updated>2012-05-03T14:19:40.006+01:00</updated>
+  <content>Questions</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:41284EC1-9A08-47E4-80B6-DE279362DA35</id>
+  <title>About</title>
+  <title xmlns="urn:iweb:">About</title>
+  <in-navbar xmlns="urn:iweb:">41284EC1-9A08-47E4-80B6-DE279362DA35</in-navbar>
+  <link rel="alternate" href="About.html"/>
+  <updated>2012-05-03T14:19:40.007+01:00</updated>
+  <content>About</content>
+ </entry>
+</feed>
